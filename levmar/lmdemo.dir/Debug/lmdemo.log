@@ -1,0 +1,17 @@
+﻿生成启动时间为 2015/12/23 9:58:25。
+     1>项目“F:\cv_sample\levmar\levmar\lmdemo.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>CustomBuild:
+         Building Custom Rule F:/cv_sample/levmar/levmar/CMakeLists.txt
+         CMake does not need to re-run because F:\cv_sample\levmar\levmar\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IF:\cv_sample\levmar\levmar /ID:\Qt\Qt5.4.1\5.4\msvc2013_opengl\include /I"D:\Program Files (x86)\Tesseract-OCR\include\leptonica" /I"D:\Program Files (x86)\Tesseract-OCR\include" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"lmdemo.dir\Debug\\" /Fd"lmdemo.dir\Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt lmdemo.c
+         lmdemo.c
+         LAPACK not available, some test problems cannot be used
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\cv_sample\levmar\levmar\Debug\lmdemo.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:/cv_sample/levmar/levmar /LIBPATH:F:/cv_sample/levmar/levmar/Debug /LIBPATH:/usr/lib /LIBPATH:/usr/lib/Debug kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib Debug\levmar.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:/cv_sample/levmar/levmar/Debug/lmdemo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:/cv_sample/levmar/levmar/Debug/lmdemo.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug lmdemo.dir\Debug\lmdemo.obj
+         lmdemo.vcxproj -> F:\cv_sample\levmar\levmar\Debug\lmdemo.exe
+     1>已完成生成项目“F:\cv_sample\levmar\levmar\lmdemo.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.56
